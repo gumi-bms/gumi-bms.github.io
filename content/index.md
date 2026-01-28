@@ -22,21 +22,21 @@ title: "[구미대 프로젝트] 링크모음"
 > [!example]+ 산출물 (구글 시트)
 > | 단계 | 산출물 | 완료여부 | 비고 |
 > | --- | --- | --- | --- |
-> | 착수 | 착수계 | O | 제출 완료 |
-> | 착수 | 사업 수행 계획서 | O | 제출 완료 |
-> | 착수 | 보안 서약서 | O | 제출 완료 |
+> | 착수 | 착수계 | ○ | 제출 완료 |
+> | 착수 | 사업 수행 계획서 | ○ | 제출 완료 |
+> | 착수 | 보안 서약서 | ○ | 제출 완료 |
 > | 분석 | [요구사항 정의서_제안요청서 기반](https://docs.google.com/spreadsheets/d/14ui3_isnjC-1RaeOh4_Obhx61AHlu6nEOYAx91UxA2o/edit) | △ | 작성완료, 제출 전 수정 필요 |
 > | 분석 | [요구사항 정의서_회의 기반](https://docs.google.com/spreadsheets/d/1kvFyeJqTpi1ZrTJXE0sSeve9wx3QmWY9/edit) | △ | 작성완료, 제출 전 수정 필요 |
-> | 개발 | 인터페이스 정의서/설계서 | X |  |
+> | 개발 | 인터페이스 정의서/설계서 | ✕ |  |
 > | 개발 | 데이터베이스 설계서 | △ | 초안 작성 완료 |
-> | 개발 | 화면 설계서 | O | 작성 완료 |
-> | 개발 | 시스템 구성도 | O | 작성 완료 |
-> | 개발 | 메뉴 구조도 | X | 개발 완료 후 작성 예정 |
+> | 개발 | 화면 설계서 | ○ | 작성 완료 |
+> | 개발 | 시스템 구성도 | ○ | 작성 완료 |
+> | 개발 | 메뉴 구조도 | ✕ | 개발 완료 후 작성 예정 |
 > | 개발 | 테스트 시나리오/결과보고서 | △ | 초안 작성 완료 |
-> | 구현 | 사용자 매뉴얼 | X |  |
-> | 완료 | 완료계 | X |  |
-> | 완료 | 보안 확약서 | X |  |
-> | 완료 | 하자보증 확약서 | X |  |
+> | 구현 | 사용자 매뉴얼 | ✕ |  |
+> | 완료 | 완료계 | ✕ |  |
+> | 완료 | 보안 확약서 | ✕ |  |
+> | 완료 | 하자보증 확약서 | ✕ |  |
 > | 관리 | 주간보고서 | △ | 매회 작성중 |
 > | 관리 | 회의록 | △ | 매회 작성중 |
 ### **산출물 (한글 파일)**
@@ -49,7 +49,7 @@ title: "[구미대 프로젝트] 링크모음"
 > - [(2026-01-22) 2026년 1월 4주차 회의록](https://www.hancomdocs.com/open?fileId=h5bPvPF6DNmLaHo0bMt7p5rOjOmLaFbM)
 > - [(2026-01-22) 2026년 1월 4주차 주간보고](https://www.hancomdocs.com/open?fileId=yEyErQCIt2iIAWaGmHCGA0uHl9rTuIAW)
 ### **계약 전 사전 회의록 (한글 파일)**
-> [!cite]+ 계약 전 사전 회의록 (한글 파일)
+> [!danger]+ 계약 전 사전 회의록 (한글 파일)
 > - [(2025-10-02) 구미대학교 3차 회의록](https://www.hancomdocs.com/open?fileId=oWh3EUwYF9E1t3B6h3x6t9k1d4DMg0qH)
 > - [(2025-10-14) 구미대학교 4차 회의록 내부보관용](https://www.hancomdocs.com/open?fileId=CLEWl9x4qKrQeGEYuHwWrMp8A1h8bOgV)
 > - [(2025-10-23) 구미대학교 5차 회의록](https://www.hancomdocs.com/open?fileId=zNrOsYoWAYDMvSF8nMvPs1cWF9nPfPgY)
