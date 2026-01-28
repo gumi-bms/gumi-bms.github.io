@@ -1,25 +1,25 @@
 ---
 title: "[구미대 프로젝트] 링크모음"
 ---
-### **구미대학교 RISE사업 사업관리시스템 구축 용역 사업**
-### **사업 기간 : 2025. 11. 24. ~ 2026. 2. 27.**
-
+### **사업 개요**
+> [!hint]+ 사업 개요
+> - 사업명 : 구미대학교 RISE사업 사업관리시스템 구축 용역 사업
+> - 사업기간 : 2025. 11. 24. ~ 2026. 2. 27.
 ### **웹 사이트**
-> [!info]+ 🌐 웹 사이트
+> [!info]+ 웹 사이트
 > - [구미대 사업관리시스템](https://bms.j-sol.co.kr)
 > - [구미대 사업비관리시스템](http://61.80.208.55/login/loginView.do)
 > - [보건대 성과관리시스템](http://192.168.0.222:8888/manager/login)
 ### **개발 참고자료 (구글 시트)**
-> [!abstract]+ 📊 개발 참고자료 (구글 시트)
+> [!abstract]+ 개발 참고자료 (구글 시트)
 > - [구미대 개발자 업무 체크리스트](https://docs.google.com/spreadsheets/d/1VjrT-d7NCNJ5_KGwYdgzBFls1IC2zqA9ROfSQLQcRVw/edit)
 > - [구미대 사업 목록](https://docs.google.com/spreadsheets/d/1Z4QutSP5-xncjHUm7RPB0CekCllC88EL/edit)
 > - [구미대 예산 목록_v2](http://docs.google.com/spreadsheets/d/1nptUdAzR8LDv3YP5y5_AERvRwQyLkHZd/edit)
 > - [구미대 예산 기초코드 목록_v3](https://docs.google.com/spreadsheets/d/1BWIv-tbVYaJlI6pt_IQKtoK_p6zUHQiK/edit)
 > - [구미대 KPI(성과지표) 목록](https://docs.google.com/spreadsheets/d/1qNRasXK4GLptNecrh7hNGMRd7hYpGrI6/edit)
 > - [구미대 사용자정보 및 조직체계_20260128](https://docs.google.com/spreadsheets/d/1-iOA1dDaVllKs89-AGfSpWu3oP81X0QP/edit)
-
-**산출물 (구글 시트)**
-> [!note]+ 📁 산출물 (구글 시트)
+### **산출물 (구글 시트)**
+> [!example]+ 산출물 (구글 시트)
 > | 단계 | 산출물 | 완료여부 | 비고 |
 > | --- | --- | --- | --- |
 > | 착수 | 착수계 | O | 제출 완료 |
@@ -39,9 +39,8 @@ title: "[구미대 프로젝트] 링크모음"
 > | 완료 | 하자보증 확약서 | X |  |
 > | 관리 | 주간보고서 | △ | 매회 작성중 |
 > | 관리 | 회의록 | △ | 매회 작성중 |
-
 ### **산출물 (한글 파일)**
-> [!example]+ 📝 산출물 (한글 파일)
+> [!note]+ 산출물 (한글 파일)
 > - [(2025-12-04) 2025년 12월 1주차 회의록](https://www.hancomdocs.com/open?fileId=CKzQcVbNF4DOkZrQaJeFzNp2EYg0bPzT)
 > - [(2025-12-11) 2025년 12월 2주차 주간보고](https://www.hancomdocs.com/open?fileId=fTjTk1F5AWEWwUx8iJvTt8vSiFvTyHo0)
 > - [(2025-12-11) 2025년 12월 2주차 회의록](https://www.hancomdocs.com/open?fileId=sWiIvMCFp8d8CKfPjMkUaHp8l7jTqHrO)
@@ -49,9 +48,8 @@ title: "[구미대 프로젝트] 링크모음"
 > - [(2026-01-07) 2026년 1월 2주차 회의록](https://www.hancomdocs.com/open?fileId=oZjSd4aLCEs0F9g0nSjRh2wWkUh8E0DN)
 > - [(2026-01-22) 2026년 1월 4주차 회의록](https://www.hancomdocs.com/open?fileId=h5bPvPF6DNmLaHo0bMt7p5rOjOmLaFbM)
 > - [(2026-01-22) 2026년 1월 4주차 주간보고](https://www.hancomdocs.com/open?fileId=yEyErQCIt2iIAWaGmHCGA0uHl9rTuIAW)
-
 ### **계약 전 사전 회의록 (한글 파일)**
-> [!warning]+ 📂 계약 전 사전 회의록 (한글 파일)
+> [!cite]+ 계약 전 사전 회의록 (한글 파일)
 > - [(2025-10-02) 구미대학교 3차 회의록](https://www.hancomdocs.com/open?fileId=oWh3EUwYF9E1t3B6h3x6t9k1d4DMg0qH)
 > - [(2025-10-14) 구미대학교 4차 회의록 내부보관용](https://www.hancomdocs.com/open?fileId=CLEWl9x4qKrQeGEYuHwWrMp8A1h8bOgV)
 > - [(2025-10-23) 구미대학교 5차 회의록](https://www.hancomdocs.com/open?fileId=zNrOsYoWAYDMvSF8nMvPs1cWF9nPfPgY)

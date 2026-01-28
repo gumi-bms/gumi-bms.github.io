@@ -2,10 +2,13 @@
 
 // put your custom CSS here!
 
+* {
+    font-family: 'Noto Sans KR', sans-serif; /* 모던 폰트 */
+}
+
 body {
   background-color: #ffffff; /* 완전 흰색 */
   color: #222222;             /* 글자 진하게 */
-  font-family: 'Noto Sans KR', sans-serif; /* 모던 폰트 */
 }
 
 /* 사이트 제목(Quartz) 숨기기 */
@@ -14,6 +17,6 @@ body {
   display: none !important;
 }
 
-footer {
-  display: none !important;
-}
+// footer {
+//   display: none !important;
+// }

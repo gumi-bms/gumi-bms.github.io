@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "제이솔루션",
+    pageTitle: "J-SOL",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
