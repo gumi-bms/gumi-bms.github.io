@@ -1,3 +1,9 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+
+body {
+  background-color: #ffffff; /* 완전 흰색 */
+  color: #222222;             /* 글자 진하게 */
+  font-family: 'Noto Sans KR', sans-serif; /* 모던 폰트 */
+}
