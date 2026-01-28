@@ -3,12 +3,14 @@ title: 구미대학교 RISE사업 사업관리시스템 구축 용역
 ---
 # 구미대학교 RISE사업 사업관리시스템 링크 모음
 
--  [구미대 프로젝트] 사용자정보_20260128
-    <a href="https://docs.google.com/spreadsheets/d/1_GRvgH19VLHWRvzFcUN7MwWNjNovrHeT/edit?gid=530665066#gid=530665066" target="_blank">열기</a>
-  </li>
-
+**웹 사이트**
 - 구미대 프로젝트 사이트 https://bms.j-sol.co.kr/
-- 
+
+**구글 시트**
+- [로드맵 및 진행현황](https://docs.google.com/spreadsheets/d/1zSPbgXZ9h5i1aebxovY6wzAp9KY05pMWvDkuZQ-c_rQ/edit?gid=735298866#gid=735298866)
+-  [사용자정보_20260128](https://docs.google.com/spreadsheets/d/1_GRvgH19VLHWRvzFcUN7MwWNjNovrHeT/edit?gid=530665066#gid=530665066)
+
+
   <li>
     📊 예산관리 (XLS)
     <a href="https://docs.google.com/spreadsheets/xxx" target="_blank">열기</a>
