@@ -13,16 +13,16 @@ title: "[구미대 프로젝트] 링크모음"
 ### **개발 참고자료**
 > [!abstract]+ 개발 참고자료
 > - **구글 시트**
-> - 구미대 개발자 업무 체크리스트 [조회](https://docs.google.com/spreadsheets/d/1VjrT-d7NCNJ5_KGwYdgzBFls1IC2zqA9ROfSQLQcRVw/edit)
-> - 구미대 사업 목록 [조회](https://docs.google.com/spreadsheets/d/1Z4QutSP5-xncjHUm7RPB0CekCllC88EL/edit)
-> - 구미대 예산 목록(사업 목록에서 예산 추가) [조회](http://docs.google.com/spreadsheets/d/1nptUdAzR8LDv3YP5y5_AERvRwQyLkHZd/edit)
-> - 구미대 예산 기초코드 목록 [조회](https://docs.google.com/spreadsheets/d/1EYqZXVSKh5Wt5aUryYIDNh1pPLMBRAgPs6sQ7zRkhxk/edit?gid=616384654#gid=616384654)
-> - 구미대 KPI(성과지표) 목록 [조회](https://docs.google.com/spreadsheets/d/1qNRasXK4GLptNecrh7hNGMRd7hYpGrI6/edit)
-> - 구미대 사용자정보 및 조직체계_20260128 [조회](https://docs.google.com/spreadsheets/d/1_GRvgH19VLHWRvzFcUN7MwWNjNovrHeT/edit?usp=sharing&ouid=105881971785729692861&rtpof=true&sd=true)
+> 	- 구미대 개발자 업무 체크리스트 [조회](https://docs.google.com/spreadsheets/d/1VjrT-d7NCNJ5_KGwYdgzBFls1IC2zqA9ROfSQLQcRVw/edit)
+> 	- 구미대 사업 목록 [조회](https://docs.google.com/spreadsheets/d/1Z4QutSP5-xncjHUm7RPB0CekCllC88EL/edit)
+> 	- 구미대 예산 목록(사업 목록에서 예산 추가) [조회](http://docs.google.com/spreadsheets/d/1nptUdAzR8LDv3YP5y5_AERvRwQyLkHZd/edit)
+> 	- 구미대 예산 기초코드 목록 [조회](https://docs.google.com/spreadsheets/d/1EYqZXVSKh5Wt5aUryYIDNh1pPLMBRAgPs6sQ7zRkhxk/edit?gid=616384654#gid=616384654)
+> 	- 구미대 KPI(성과지표) 목록 [조회](https://docs.google.com/spreadsheets/d/1qNRasXK4GLptNecrh7hNGMRd7hYpGrI6/edit)
+> 	- 구미대 사용자정보 및 조직체계_20260128 [조회](https://docs.google.com/spreadsheets/d/1_GRvgH19VLHWRvzFcUN7MwWNjNovrHeT/edit?usp=sharing&ouid=105881971785729692861&rtpof=true&sd=true)
 > - **PDF 파일**
-> - 성과관리시스템 브로슈어 [조회](https://drive.google.com/file/d/1UR88LN3iLJ6th-TJQKAql2Re7wDjFxY8/view?usp=sharing)
-> - 성과관리시스템 매뉴얼 사업단 [조회](https://drive.google.com/file/d/1apCZ84SBSZbYEz6zExEN_89-4XYNenSz/view?usp=sharing)
-> - 성과관리시스템 매뉴얼 대학학부 [조회](https://drive.google.com/file/d/1O-OMOfBFbNnTY4spn75oqpjfN3YtcBK6/view?usp=sharing)
+> 	- 성과관리시스템 브로슈어 [조회](https://drive.google.com/file/d/1UR88LN3iLJ6th-TJQKAql2Re7wDjFxY8/view?usp=sharing)
+> 	- 성과관리시스템 매뉴얼 사업단 [조회](https://drive.google.com/file/d/1apCZ84SBSZbYEz6zExEN_89-4XYNenSz/view?usp=sharing)
+> 	- 성과관리시스템 매뉴얼 대학학부 [조회](https://drive.google.com/file/d/1O-OMOfBFbNnTY4spn75oqpjfN3YtcBK6/view?usp=sharing)
 ### **산출물 (구글 시트)**
 > [!example]+ 산출물 (구글 시트)
 > | 단계 | 산출물 | 완료여부 | 비고 |
