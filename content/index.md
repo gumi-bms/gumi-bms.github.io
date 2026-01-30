@@ -36,12 +36,12 @@ title: "[구미대 프로젝트] 링크모음"
 > | 개발 | 데이터베이스 설계서 [조회](https://naver.me/x4Ggfj8g) | △ | 초안 작성 완료 |
 > | 개발 | 화면 설계서 [조회](#산출물-ppt-파일) | ○ | 작성 완료 |
 > | 개발 | 시스템 구성도 [조회](https://docs.google.com/presentation/d/1X3hedLNkU7Xs-r4d_lzl3k7A00P-9AjW/edit?usp=drive_link&ouid=105881971785729692861&rtpof=true&sd=true) | ○ | 작성 완료 |
-> | 개발 | 메뉴 구조도 | ✕ | 개발 완료 후 작성 예정 |
+> | 개발 | 메뉴 구조도 [조회](https://docs.google.com/spreadsheets/d/1MZUdtgXdm860K8zyZ6Pbrer_qhrX5NzbuJkRH30lMyk/edit?gid=0#gid=0) | △ | 초안 작성 완료 |
 > | 개발 | 테스트 시나리오/결과보고서 [조회](https://docs.google.com/spreadsheets/d/12CwaVPOjJSjFldfxiv5jBA8l1M7-lHJQZctciSZit8Y/edit?usp=drive_link) | △ | 초안 작성 완료 |
 > | 구현 | 시스템 사용자 매뉴얼 | ✕ | 양식 준비 완료 |
 > | 완료 | 완료계 | △ | 양식 준비 완료 |
 > | 완료 | 보안 확약서 | △ | 양식 준비 완료 |
-> | 완료 | 하자보증 확약서 | ✕ |  |
+> | 완료 | 하자보증 확약서 | △ | 양식 준비 완료 |
 > | 관리 | 주간보고서 [조회](#산출물-hwp-파일) | △ | 매회 작성 중 |
 > | 관리 | 회의록 [조회](#산출물-hwp-파일) | △ | 매회 작성 중 |
 ### **산출물 (HWP 파일)**
