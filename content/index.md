@@ -13,6 +13,7 @@ title: "[구미대 프로젝트] 링크모음"
 ### **개발 참고자료**
 > [!abstract]+ 개발 참고자료
 > - **구글 시트**
+> 	- 구미대 로드맵 및 진행현황 [조회](http://docs.google.com/spreadsheets/d/1zSPbgXZ9h5i1aebxovY6wzAp9KY05pMWvDkuZQ-c_rQ/edit)
 > 	- 구미대 개발자 업무 체크리스트 [조회](https://docs.google.com/spreadsheets/d/1VjrT-d7NCNJ5_KGwYdgzBFls1IC2zqA9ROfSQLQcRVw/edit)
 > 	- 구미대 사업 목록 [조회](https://docs.google.com/spreadsheets/d/1Z4QutSP5-xncjHUm7RPB0CekCllC88EL/edit)
 > 	- 구미대 예산 목록(사업 목록에서 예산 추가) [조회](http://docs.google.com/spreadsheets/d/1nptUdAzR8LDv3YP5y5_AERvRwQyLkHZd/edit)
