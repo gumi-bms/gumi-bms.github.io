@@ -31,18 +31,17 @@ title: "[구미대 프로젝트] 링크모음"
 > | 착수 | 착수계 | ○ | 제출 완료 |
 > | 착수 | 사업 수행 계획서 | ○ | 제출 완료 |
 > | 착수 | 보안 서약서 | ○ | 제출 완료 |
-> | 분석 | 요구사항 정의서_제안요청서 기반 [조회](https://docs.google.com/spreadsheets/d/14ui3_isnjC-1RaeOh4_Obhx61AHlu6nEOYAx91UxA2o/edit) | △ | 작성완료, 제출 전 수정 필요 |
-> | 분석 | 요구사항 정의서_회의 기반 [조회](https://docs.google.com/spreadsheets/d/1kvFyeJqTpi1ZrTJXE0sSeve9wx3QmWY9/edit) | △ | 작성완료, 제출 전 수정 필요 |
-> | 개발 | 인터페이스 정의서/설계서 [조회](https://naver.me/G5P4E9mH) | △ | 양식 및 작성방법 완료 |
+> | 분석 | 요구사항 정의서 [조회](https://docs.google.com/spreadsheets/d/14ui3_isnjC-1RaeOh4_Obhx61AHlu6nEOYAx91UxA2o/edit?gid=660569576#gid=660569576) | △ | 작성완료, 제출 전 수정 필요 |
+> | 개발 | 인터페이스 정의서/설계서 [조회](https://naver.me/G5P4E9mH) | △ | 양식 전달 완료 |
 > | 개발 | 데이터베이스 설계서 [조회](https://naver.me/x4Ggfj8g) | △ | 초안 작성 완료 |
 > | 개발 | 화면 설계서 [조회](#산출물-ppt-파일) | ○ | 작성 완료 |
 > | 개발 | 시스템 구성도 [조회](https://docs.google.com/presentation/d/1X3hedLNkU7Xs-r4d_lzl3k7A00P-9AjW/edit?usp=drive_link&ouid=105881971785729692861&rtpof=true&sd=true) | ○ | 작성 완료 |
-> | 개발 | 메뉴 구조도 [조회](https://docs.google.com/spreadsheets/d/1MZUdtgXdm860K8zyZ6Pbrer_qhrX5NzbuJkRH30lMyk/edit?gid=0#gid=0) | △ | 초안 작성 완료 |
-> | 개발 | 테스트 시나리오/결과보고서 [조회](https://docs.google.com/spreadsheets/d/12CwaVPOjJSjFldfxiv5jBA8l1M7-lHJQZctciSZit8Y/edit?usp=drive_link) | △ | 초안 작성 완료 |
-> | 구현 | 시스템 사용자 매뉴얼 | ✕ | 양식 준비 완료 |
-> | 완료 | 완료계 | △ | 양식 준비 완료 |
-> | 완료 | 보안 확약서 | △ | 양식 준비 완료 |
-> | 완료 | 하자보증 확약서 [조회](https://naver.me/FLeZe70B) | △ | 양식 준비 완료 |
+> | 개발 | 메뉴 구조도 [조회](https://docs.google.com/spreadsheets/d/1MZUdtgXdm860K8zyZ6Pbrer_qhrX5NzbuJkRH30lMyk/edit?gid=0#gid=0) | △ | 초안 작성 완료, 제출 전 수정 필요 |
+> | 개발 | 테스트 시나리오/결과보고서 [조회](https://docs.google.com/spreadsheets/d/12CwaVPOjJSjFldfxiv5jBA8l1M7-lHJQZctciSZit8Y/edit?usp=drive_link) | △ | 초안 작성 완료, 제출 전 수정 필요 |
+> | 구현 | 시스템 사용자 매뉴얼 | △ | 양식 준비 완료 |
+> | 완료 | 완료계 | ○ | 초안 작성 완료, 직인날인 필요 |
+> | 완료 | 보안 확약서 | ○ | 초안 작성 완료 |
+> | 완료 | 하자보증 확약서 | ○ | 초안 작성 완료 |
 > | 관리 | 주간보고서 [조회](#산출물-hwp-파일) | △ | 매회 작성 중 |
 > | 관리 | 회의록 [조회](#산출물-hwp-파일) | △ | 매회 작성 중 |
 ### **산출물 (HWP 파일)**
