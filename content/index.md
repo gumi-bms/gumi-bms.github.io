@@ -46,6 +46,13 @@ title: "[구미대 프로젝트] 링크모음"
 > | 관리 | 회의록 [조회](#산출물-hwp-파일) | △ | 매회 작성 중 |
 ### **산출물 (HWP 파일)**
 > [!note]+ 산출물 (HWP 파일)
+> - 사전회의 / (2025-10-02) 구미대학교 3차 회의록 [조회](https://naver.me/FfBIHen9)
+> - 사전회의 / (2025-10-14) 구미대학교 4차 회의록 내부보관용 [조회](https://naver.me/FJISmb79)
+> - 사전회의 / (2025-10-23) 구미대학교 5차 회의록 [조회](https://naver.me/5tfpTQeb)
+> - 사전회의 / (2025-10-31) 구미대학교 회의 안건 [조회](https://naver.me/GgBaQqq0)
+> - 사전회의 / (2025-10-31) 구미대학교 6차 회의 [조회](https://naver.me/5gYZg9ft)
+> - 사전회의 / (2025-11-07) 구미대학교 7차 회의 [조회](https://naver.me/5cqly0n0)
+> - 사전회의 / (2025-11-13) 구미대학교 8차 회의 [조회](https://naver.me/xqulItqs)
 > - (2025-12-04) 2025년 12월 1주차 회의록 [조회](https://naver.me/xMnpyU95)
 > - (2025-12-11) 2025년 12월 2주차 주간보고 [조회](https://naver.me/5JG85XWy)
 > - (2025-12-11) 2025년 12월 2주차 회의록 [조회](https://naver.me/5R4Izo17)
@@ -57,12 +64,3 @@ title: "[구미대 프로젝트] 링크모음"
 > [!cite]+ 산출물 (PPT 파일)
 > - 화면설계서(기능순)v3_20251028 [조회](https://docs.google.com/presentation/d/1NCygzN86B4MG1bQgvukFjvvf4ROjxMWR/edit?usp=sharing&ouid=105881971785729692861&rtpof=true&sd=true)
 > - 화면설계서(접근순)v4_20251223 [조회](https://docs.google.com/presentation/d/1F52M0qdTF1EZZ4cbG8pGvQlJpysCQdno/edit?usp=sharing&ouid=105881971785729692861&rtpof=true&sd=true)
-### **계약 전 사전 회의록 (HWP 파일)**
-> [!danger]+ 계약 전 사전 회의록 (HWP 파일)
-> - (2025-10-02) 구미대학교 3차 회의록 [조회](https://naver.me/FfBIHen9)
-> - (2025-10-14) 구미대학교 4차 회의록 내부보관용 [조회](https://naver.me/FJISmb79)
-> - (2025-10-23) 구미대학교 5차 회의록 [조회](https://naver.me/5tfpTQeb)
-> - (2025-10-31) 구미대학교 회의 안건 [조회](https://naver.me/GgBaQqq0)
-> - (2025-10-31) 구미대학교 6차 회의 [조회](https://naver.me/5gYZg9ft)
-> - (2025-11-07) 구미대학교 7차 회의 [조회](https://naver.me/5cqly0n0)
-> - (2025-11-13) 구미대학교 8차 회의 [조회](https://naver.me/xqulItqs)
