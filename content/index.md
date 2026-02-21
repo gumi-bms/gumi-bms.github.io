@@ -44,6 +44,10 @@ title: "[구미대 프로젝트] 링크모음"
 > | 완료 | 하자보증 확약서 | ○ | 초안 작성 완료 |
 > | 관리 | 주간보고서 [조회](#산출물-hwp-파일) | △ | 매회 작성 중 |
 > | 관리 | 회의록 [조회](#산출물-hwp-파일) | △ | 매회 작성 중 |
+### **산출물 (PPT 파일)**
+> [!cite]+ 산출물 (PPT 파일)
+> - 화면설계서(기능순)v3_20251028 [조회](https://docs.google.com/presentation/d/1NCygzN86B4MG1bQgvukFjvvf4ROjxMWR/edit?usp=sharing&ouid=105881971785729692861&rtpof=true&sd=true)
+> - 화면설계서(접근순)v4_20251223 [조회](https://docs.google.com/presentation/d/1F52M0qdTF1EZZ4cbG8pGvQlJpysCQdno/edit?usp=sharing&ouid=105881971785729692861&rtpof=true&sd=true)
 ### **산출물 (HWP 파일)**
 > [!note]+ 산출물 (HWP 파일)
 > - 사전회의 / (2025-10-02) 구미대학교 3차 회의록 [조회](https://naver.me/FfBIHen9)
@@ -60,7 +64,3 @@ title: "[구미대 프로젝트] 링크모음"
 > - (2026-01-07) 2026년 1월 2주차 회의록 [조회](https://naver.me/GcKpJkF1)
 > - (2026-01-22) 2026년 1월 4주차 주간보고 [조회](https://naver.me/50JwU8Ms)
 > - (2026-01-22) 2026년 1월 4주차 회의록 [조회](https://naver.me/Goi0MQtf)
-### **산출물 (PPT 파일)**
-> [!cite]+ 산출물 (PPT 파일)
-> - 화면설계서(기능순)v3_20251028 [조회](https://docs.google.com/presentation/d/1NCygzN86B4MG1bQgvukFjvvf4ROjxMWR/edit?usp=sharing&ouid=105881971785729692861&rtpof=true&sd=true)
-> - 화면설계서(접근순)v4_20251223 [조회](https://docs.google.com/presentation/d/1F52M0qdTF1EZZ4cbG8pGvQlJpysCQdno/edit?usp=sharing&ouid=105881971785729692861&rtpof=true&sd=true)
