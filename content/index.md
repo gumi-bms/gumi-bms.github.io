@@ -4,6 +4,7 @@ title: "[제이솔루션] 링크모음"
 ### **1. 업무용 사이트**
 > [!note]+ 업무용 사이트
 > - 비즈메카 메일 [이동](https://ezwebmail.bizmeka.com)
+> - 구글 캘린더 [이동](https://calendar.google.com/calendar/u/1/r?pli=1)
 > - NAS [이동](http://192.168.0.231)
 
 ### **2. 기획팀 구글시트**
