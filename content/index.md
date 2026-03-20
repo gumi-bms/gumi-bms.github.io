@@ -6,6 +6,7 @@ title: "[제이솔루션] 링크모음"
 > - 비즈메카 메일 [이동](https://ezwebmail.bizmeka.com)
 > - 구글 캘린더 [이동](https://calendar.google.com/calendar/u/1/r?pli=1)
 > - NAS [이동](http://192.168.0.231)
+> - 다다오피스(물품구매) [이동](https://www.dadaoffice.co.kr/)
 
 ### **2. 기획팀 구글시트**
 > [!abstract]+ 기획팀 구글시트
@@ -28,8 +29,8 @@ title: "[제이솔루션] 링크모음"
 > - 구미대 사업관리시스템 [이동](https://bms.j-sol.co.kr)
 > - 보건대 성과관리시스템 [이동](http://192.168.0.222:8888/manager/login)
 
-### **5. 외부 업무 사이트**
-> [!hint]+ 외부 업무 사이트
+### **5. 외부 참고 사이트**
+> [!hint]+ 외부 참고 사이트
 > - 나라장터 [이동](https://www.g2b.go.kr)
 > - 국가법령정보센터 [이동](https://law.go.kr)
 
