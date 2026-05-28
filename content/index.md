@@ -35,9 +35,16 @@ tags:
 
 ---
 
-## 3. ICT연구개발팀 링크
+## 3. ICT운영지원팀 링크
 
-> [!example]+ ICT연구개발팀 링크
+> [!tip]+ ICT운영지원팀 링크
+> - [구글시트: 업무일지](https://docs.google.com/spreadsheets/d/1sPC7jkHjT0jEirPXGR-jPfrNNouQLYNGOIL1v-J5BnU)
+
+---
+
+## 4. ICT연구개발팀 링크
+
+> [!tip]+ ICT연구개발팀 링크
 >
 > #### (1) 개발 관련 링크
 > - 아웃라인(Outline) https://outline.j-sol.co.kr/
@@ -65,7 +72,7 @@ tags:
 
 ---
 
-## 4. 기타 자료
+## 5. 기타 자료
 
 > [!attention]+ 기타 자료
 > - [[Germany_20260403|2026-04-03(금) 독일 행사 관련 사전간담회]]
